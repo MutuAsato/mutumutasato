@@ -15,5 +15,3 @@ adaas
 これはテスト２
 
 asdasdasdasdasdas
-
-asdadasdasda
